@@ -1,5 +1,5 @@
 # uhvending.github.io
-On-campus vending machines made easy.
+On campus vending machines made easy.
 
 # About UHVending
 "I just walked halfway across campus and this machine doesn't sell that..."
