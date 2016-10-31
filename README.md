@@ -9,27 +9,27 @@ Here students can find which nearby machines sell products they want, gain insig
 
 #Examples of what this app will look like:
 
-# Landing page
+### Landing page
 
 What firt time or non logged in users will see.
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/landing-page.png)
 
-# Map page
+### Map page
 
 Once logged in users will be able to see all vending machines on campus here.
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/map-page.png)
 
-# Machine info page
+### Machine info page
 
 Upon tapping or clicking a vending machine, the user will be able to see more detailed info about it.
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/machine-info-page.png)
 
-# Product info page
+### Product info page
 
 The same goes for individual products in the repsective machine.
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/product-info-page.png)
 
-# Polls page
+### Polls page
 
 Here users will be able to answer polls about their vending machine experience. 
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/polls-page.png)
