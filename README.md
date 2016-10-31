@@ -11,7 +11,7 @@ Here students can find which nearby machines sell products they want, gain insig
 
 ### Landing page
 
-What firt time or non logged in users will see.
+What first time or non-logged in users will see.
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/landing-page.png)
 
 ### Map page
