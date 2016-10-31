@@ -1,4 +1,4 @@
-# uhvending.github.io
+# UHVending
 On campus vending machines made easy.
 
 # About UHVending
@@ -23,3 +23,9 @@ Here students can find which nearby machines sell products they want, gain insig
 
 # polls page
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/polls-page.png)
+
+# Team
+Alexander Sanchez
+Derrick Comiso
+Egan Nakano
+Joseph Nasca
