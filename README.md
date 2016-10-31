@@ -26,6 +26,9 @@ Here students can find which nearby machines sell products they want, gain insig
 
 # Team
 Alexander Sanchez
+
 Derrick Comiso
+
 Egan Nakano
+
 Joseph Nasca
