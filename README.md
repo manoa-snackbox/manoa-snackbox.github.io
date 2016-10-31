@@ -3,6 +3,7 @@ On campus vending machines made easy.
 
 # About UHVending
 "I just walked halfway across campus and this machine doesn't sell that..."
+
 Vending is an app that provides UH Manoa students with information on the contents of vending machines on campus.
 Here students can find which nearby machines sell products they want, gain insight into which machines might be sold out, as well as view nutrition information on all drinks and snack items available.
 
