@@ -12,13 +12,13 @@ Here students can find which nearby machines sell products they want, gain insig
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/landing-page.png)
 
 # map page
-![](https://github.com/uhvending/uhvending.github.io/blob/master/app/public/images/map-page.png)
+![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/map-page.png)
 
 # machine info page
-![](https://github.com/uhvending/uhvending.github.io/blob/master/app/public/images/machine-info-page.png)
+![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/machine-info-page.png)
 
 # product info page
-![](https://github.com/uhvending/uhvending.github.io/blob/master/app/public/images/product-info-page.png)
+![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/product-info-page.png)
 
 # polls page
-![](https://github.com/uhvending/uhvending.github.io/blob/master/app/public/images/polls-page.png)
+![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/polls-page.png)
