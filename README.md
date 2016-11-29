@@ -46,9 +46,9 @@ this ability, developers will be able to perform all the duties of a 'normal use
 
 # [M1 Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/1)
 
-# M2 [Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/2)
+# [M2 Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/2)
 
-# M3 [Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/3)
+# [M3 Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/3)
 
 # Team
 Alexander Sanchez
