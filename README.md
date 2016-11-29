@@ -6,6 +6,11 @@
 Manoa Snackbox is an app that provides UH Manoa students with information on the contents of vending machines on campus.
 Here students can find which nearby machines sell products they want, gain insight into which machines might be sold out, as well as view nutrition information on all drinks and snack items available.
 
+# Running Deployment
+## We are currently having trouble deploying to meteor. 
+http://snackbox.meteorapp.com/
+
+
 # User Guide
 
 Users first arrive on the Landing Page
@@ -39,6 +44,11 @@ Developers will have a special login allowing them to add/edit certain products 
 this ability, developers will be able to perform all the duties of a 'normal user'.
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/add-product-page.png)
 
+# [M1 Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/1)
+
+# M2 [Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/2)
+
+# M3 [Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/3)
 
 # Team
 Alexander Sanchez
