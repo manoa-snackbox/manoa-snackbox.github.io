@@ -34,15 +34,23 @@ Upon tapping or clicking a vending machine, the user will be able to see more de
 The same goes for individual products in the repsective machine.
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/product-info-page.png)
 
-### Polls page
-
-Here users will be able to answer polls about their vending machine experience. 
-![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/polls-page.png)
-
-# Developer Guide 
+# Admin & Vendor Guide 
 Developers will have a special login allowing them to add/edit certain products from machines they choose (In Progress). Along with 
 this ability, developers will be able to perform all the duties of a 'normal user'.
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/add-product-page.png)
+
+# Developer Guide
+To begin:
+       + First intall meteor on your machine.
+       + Then create a directory locally for the project.
+       + Use Git to clone the project to your machine with:
+       ++ git clone https://github.com/manoa-snackbox/manoa-snackbox.git
+       
+       + At this point, make your way into the app directory using the 'cd' command.
+       + Once there, run the following:
+       ++ meteor npm install meteor —settings ../config/settings.development.json
+      
+       + Once the above is complete you should be able to find the app running at http://localhost:3000/
 
 # [M1 Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/1)
 
