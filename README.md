@@ -7,7 +7,6 @@ Manoa Snackbox is an app that provides UH Manoa students with information on the
 Here students can find which nearby machines sell products they want, gain insight into which machines might be sold out, as well as view nutrition information on all drinks and snack items available.
 
 # Running Deployment
-## We are currently having trouble deploying to meteor. 
 http://snackbox.meteorapp.com/
 
 
@@ -40,20 +39,13 @@ this ability, developers will be able to perform all the duties of a 'normal use
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/add-product-page.png)
 
 # Developer Guide
-To begin:
-       + First intall meteor on your machine.
-       + Then create a directory locally for the project.
-       + Use Git to clone the project to your machine with:
-       
-       + git clone https://github.com/manoa-snackbox/manoa-snackbox.git
-       
-       
-       + At this point, make your way into the app directory using the 'cd' command.
-       + Once there, run the following:
-      
-        meteor npm install meteor —settings ../config/settings.development.json
-      
-       + Once the above is complete you should be able to find the app running at http://localhost:3000/
+###To begin:
+        1. First intall meteor on your machine.
+        2. Then create a directory locally for the project.
+        3. Use Git to clone the project to your machine with: ```git clone https://github.com/manoa-snackbox/manoa-snackbox.git```       
+        4. At this point, make your way into the app directory using the 'cd' command.
+        5. Once there, run the following: ```meteor npm install meteor —settings ../config/settings.development.json```
+        6. Once the above is complete you should be able to find the app running at http://localhost:3000/
 
 # [M1 Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/1)
 
