@@ -51,6 +51,18 @@ this ability, developers will be able to perform all the duties of a 'normal use
         5. Once there, run the following: 
                 meteor npm install meteor —settings ../config/settings.development.json
         6. Once the above is complete you should be able to find the app running at http://localhost:3000/
+        
+        
+        
+#-User Reviews-
+
++ 'Your user interface is good, however there should be some added functionality'- Kevin Nguyen.
+
+
++ 'I had some trouble logging in, however I can see this app being very useful in the future.' - Hee UK
+
+
++ 'Website looks really good, you should try adding more stuff to it. I don't think theres enough information for me to pull the website up everytime I need it.' -Nick Reyes
 
 # [M1 Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/1)
 
