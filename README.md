@@ -54,7 +54,7 @@ this ability, developers will be able to perform all the duties of a 'normal use
         
         
         
-#-User Reviews-
+#User Reviews
 
 + 'Your user interface is good, however there should be some added functionality'- Kevin Nguyen.
 
