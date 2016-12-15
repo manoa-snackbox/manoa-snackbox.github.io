@@ -32,6 +32,7 @@ Upon tapping or clicking a vending machine, the user will be able to see more de
 
 The same goes for individual products in the repsective machine.
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/product_screen.png)
+![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/product-info-page.png)
 
 # Admin & Vendor Guide 
 Developers will have a special login allowing them to add/edit certain products from machines they choose (In Progress). Along with 
