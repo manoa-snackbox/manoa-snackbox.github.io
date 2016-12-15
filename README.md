@@ -16,12 +16,12 @@ Users first arrive on the Landing Page
 ### Landing page
 
 First time, and non-logged-in users will arrive on this page.
-![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/landing-page.png)
+![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/homescreen.png)
 
 ### Map page
 
 Once logged in users will be able to see all vending machines on campus here.
-![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/map-page.png)
+![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/map_screen.png)
 
 ### Machine info page
 
@@ -31,11 +31,13 @@ Upon tapping or clicking a vending machine, the user will be able to see more de
 ### Product info page
 
 The same goes for individual products in the repsective machine.
-![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/product-info-page.png)
+![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/product_screen.png)
 
 # Admin & Vendor Guide 
 Developers will have a special login allowing them to add/edit certain products from machines they choose (In Progress). Along with 
 this ability, developers will be able to perform all the duties of a 'normal user'.
+
+![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/admin_screen.png)
 ![](https://github.com/uhvending/uhvending.github.io/blob/master/screenshots/add-product-page.png)
 
 # Developer Guide
