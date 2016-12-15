@@ -42,9 +42,11 @@ this ability, developers will be able to perform all the duties of a 'normal use
 ###To begin:
         1. First intall meteor on your machine.
         2. Then create a directory locally for the project.
-        3. Use Git to clone the project to your machine with: ```git clone https://github.com/manoa-snackbox/manoa-snackbox.git```       
+        3. Use Git to clone the project to your machine with: 
+                git clone https://github.com/manoa-snackbox/manoa-snackbox.git      
         4. At this point, make your way into the app directory using the 'cd' command.
-        5. Once there, run the following: ```meteor npm install meteor —settings ../config/settings.development.json```
+        5. Once there, run the following: 
+                meteor npm install meteor —settings ../config/settings.development.json
         6. Once the above is complete you should be able to find the app running at http://localhost:3000/
 
 # [M1 Project Page](https://github.com/manoa-snackbox/manoa-snackbox/projects/1)
