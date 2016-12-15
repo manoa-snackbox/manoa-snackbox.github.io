@@ -44,11 +44,14 @@ To begin:
        + First intall meteor on your machine.
        + Then create a directory locally for the project.
        + Use Git to clone the project to your machine with:
-       ++ git clone https://github.com/manoa-snackbox/manoa-snackbox.git
+       
+       + git clone https://github.com/manoa-snackbox/manoa-snackbox.git
+       
        
        + At this point, make your way into the app directory using the 'cd' command.
        + Once there, run the following:
-       ++ meteor npm install meteor —settings ../config/settings.development.json
+      
+        meteor npm install meteor —settings ../config/settings.development.json
       
        + Once the above is complete you should be able to find the app running at http://localhost:3000/
 
